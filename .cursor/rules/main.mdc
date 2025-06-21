@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+USE BUN for all installs and running dev server
+don't try to run the development server
